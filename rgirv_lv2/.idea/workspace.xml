@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="642d94b7-1041-47cf-8b11-61e9381030f5" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Xexcou8rnIyPgmQ3dcz7DwgrcZ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PythonContentEntriesConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Dealunay" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="untitled" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\Ljazo\AppData\Local\Programs\Python\Python38-32\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Dealunay.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="rgirv_lv2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <module name="rgirv_lv2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <module name="rgirv_lv2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <module name="rgirv_lv2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Dealunay" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="642d94b7-1041-47cf-8b11-61e9381030f5" name="Default Changelist" comment="" />
+      <created>1581420446437</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581420446437</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="359" y="0" key="#Dealunay" timestamp="1581431177403">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="359" y="0" key="#Dealunay/0.0.1280.680@0.0.1280.680" timestamp="1581431177403" />
+    <state x="232" y="0" key="#Notifications" timestamp="1581433395960">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="232" y="0" key="#Notifications/0.0.1280.680@0.0.1280.680" timestamp="1581433395960" />
+    <state x="419" y="94" key="FileChooserDialogImpl" timestamp="1581433450283">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="419" y="94" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1581433450283" />
+    <state width="1222" height="193" key="GridCell.Tab.0.bottom" timestamp="1581446073676">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1222" height="193" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1581446073676" />
+    <state width="1222" height="193" key="GridCell.Tab.0.center" timestamp="1581446073676">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1222" height="193" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1581446073676" />
+    <state width="1222" height="193" key="GridCell.Tab.0.left" timestamp="1581446073675">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1222" height="193" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1581446073675" />
+    <state width="1222" height="193" key="GridCell.Tab.0.right" timestamp="1581446073676">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1222" height="193" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1581446073676" />
+    <state x="107" y="0" key="SettingsEditor" timestamp="1581433452541">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="107" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1581433452541" />
+    <state x="122" y="154" width="1096" height="496" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1581434169961">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="122" y="154" width="1096" height="496" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1280.680@0.0.1280.680" timestamp="1581434169961" />
+    <state x="335" y="162" key="com.intellij.ide.util.TipDialog" timestamp="1581445217721">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="335" y="162" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1581445217721" />
+    <state x="44" y="0" width="774" height="680" key="find.popup" timestamp="1581433702582">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="42" y="0" width="736" height="720" key="find.popup/0.0.1218.720@0.0.1218.720" timestamp="1581433638695" />
+    <state x="44" y="0" width="774" height="680" key="find.popup/0.0.1280.680@0.0.1280.680" timestamp="1581433702582" />
+    <state x="381" y="0" key="refactoring.ChangeSignatureDialog" timestamp="1581427991082">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="381" y="0" key="refactoring.ChangeSignatureDialog/0.0.1280.680@0.0.1280.680" timestamp="1581427991082" />
+  </component>
+</project>
